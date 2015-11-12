@@ -20,9 +20,8 @@
         </event-block>
         <event-block sid="8655996197728169">
             <conditions>
-                <condition id="0" name="On click" sid="7581600429326927" type="Mouse">
+                <condition id="2" name="Mouse button is down" sid="7581600429326927" type="Mouse">
                     <param id="0" name="Mouse button">0</param>
-                    <param id="1" name="Click type">0</param>
                 </condition>
             </conditions>
             <actions>

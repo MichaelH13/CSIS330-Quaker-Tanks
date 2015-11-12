@@ -75,7 +75,7 @@
                 <action id="-9" name="Destroy" sid="5177081548940251" type="Monster3" />
                 <action id="-10" name="Add to" sid="8457539094547663" type="System">
                     <param id="0" name="Variable">Score</param>
-                    <param id="1" name="Value">2</param>
+                    <param id="1" name="Value">10</param>
                 </action>
             </actions>
         </event-block>

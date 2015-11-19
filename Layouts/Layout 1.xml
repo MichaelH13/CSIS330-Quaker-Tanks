@@ -363,7 +363,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>0</x>
-                        <y>0</y>
+                        <y>69</y>
                         <z>0</z>
                         <width>535</width>
                         <height>123</height>
